@@ -49,5 +49,10 @@ Next steps -
   Rebuild the workflow using scalable data processing tools.
   Visual insights through an interactive dashboard.
 
+Limitations -
+  Dataset limited to snapshot.
+  Rating compressed.
+  No time dimension.
+  Brand effects not analyzed. 
 
                                     
